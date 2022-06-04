@@ -1,0 +1,62 @@
+
+ #navbarSupportedContent {
+    max-width: 800px; 
+ }
+ 
+ .navbar ul li a {
+    margin-left: 3px;
+ }
+
+ .btn-secondary {
+    margin-left: 5px;
+    
+ }
+
+.background-img {
+     width: 100%;
+     object-fit: contain;
+ }
+
+ #modified-background-img {
+     height: 100%;
+     width: 100%;
+     object-fit: cover;
+ }
+
+ #special-offer {
+     background-color: #D8D2CB;
+     padding-top: 10%;
+     padding-bottom: 10%;
+ }
+
+ .zero-padding {
+     position: relative;
+     padding: 0;
+ }
+
+ .btn {
+     border-radius: 50px;
+ }
+
+ .cat-img {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+}
+
+.discover-app-elements {
+    position: absolute;
+    top: 70%;
+    left: 40%;
+}
+
+.discover-app-elements h5 {
+    color: white;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+#belief-section {
+    background-color: #C6DCE4;
+    padding-top: 5px;
+}
